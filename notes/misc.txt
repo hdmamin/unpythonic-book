@@ -11,3 +11,5 @@
     -lesson type: would have to group after, but sections would be things like inheritance vs composition, encapsulation, divide and conquer, etc.
     -atrocity level: start small and build to crazier things as the book progresses
 -Whichever we use, we may want to leave room for some misc musings (e.g. code storming/noodling).
+
+# TODO: still figuring out how to make toc work. intro/2-preface.md not showing up.
