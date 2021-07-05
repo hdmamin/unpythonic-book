@@ -1,10 +1,7 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-format: jb-article
-root: intro
-sections:
-- file: content
-  sections:
-  - file: markdown
-  - file: notebooks
+format: jb-book
+root: intro/1-zen.md
+chapters:
+  - file: intro/2-preface.md

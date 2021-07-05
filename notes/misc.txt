@@ -1,0 +1,13 @@
+-Might be interesting to have a standardized post/chapter format:
+    -post name: "What if we could {...}?" or "How might we {...}?"
+    -atrocity score: 0-5 somethings (image; unsure what rating objects would be at this point)
+    -final code snippet: how we achieved it (if we did)
+    -reflection: What should you actually do instead (e.g. recall case where I was trying to build some weird metaclass or decorator and stackoverflow suggested "why not just use this thing called composition?")? Or what did this reveal about python's inner workings?
+    -conclusion: was the hackery worth it in this case?
+
+-What kind of sections/chapters might we use?
+    -Implementation type: section for decorators, metaclasses, contextmanagers, structures, etc.
+    -goal type: quick docs/visibility (e.g. add_kwargs), automation/documentation (e.g. make readmes), NLP, pandas
+    -lesson type: would have to group after, but sections would be things like inheritance vs composition, encapsulation, divide and conquer, etc.
+    -atrocity level: start small and build to crazier things as the book progresses
+-Whichever we use, we may want to leave room for some misc musings (e.g. code storming/noodling).
